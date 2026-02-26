@@ -30,8 +30,8 @@ set(raylib_public_headers
 
 # Sources to be compiled
 set(raylib_sources
-    raudio.c
     rcore.c
+    raudio.c
     rmodels.c
     rshapes.c
     rtext.c
